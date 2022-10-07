@@ -66,9 +66,10 @@ To reduce typing aka.ms/ all the time you can add a prefix to make it super quic
 
 Once set up all you have to do is 
 * Open a new tab
-* Type *a* and press *TAB*
-* Type in the aka.ms shortcut. eg. *ad/users*
+* Type **a** and press **SPACE** or **TAB** 
+* Type in the aka.ms shortcut. eg. **ad/users**
 
+![Search bar demo](/images/SearchBarDemo.gif)
 
 ### Microsoft Edge
 
@@ -83,6 +84,8 @@ Once set up all you have to do is
 
 A quick alternative to get to the **Manage search enginess** page is to search for **Manage search engines** under **Settings** and select **Address bar search**
 
+<img src="/images/configedge.png" alt="Screenshot of Edge config of address bar" width="500" >
+
 ### Google Chrome
 
 * Go to **Settings** > **Search engine** > **Manage search engines and site search**
@@ -96,12 +99,11 @@ A quick alternative to get to the **Manage search enginess** page is to search f
 
 ### Firefox
 
-Unfortunately [Firefox does not have an easy way to do add a search engine](https://bugzilla.mozilla.org/show_bug.cgi?id=1683969) and an extension may be required.
+Unfortunately [Firefox does not have an easy way to do add a search engine](https://bugzilla.mozilla.org/show_bug.cgi?id=1683969) and an extension may be required. If you find an easy way please share.
 
 ## Suggestions
 
 Notice anything missing or have suggestions? Please create an issue or submit a PR.
-
 
 
 ## Contributing
