@@ -6,7 +6,9 @@ This page lists all aka.ms links for Microsoft Admins portals.
 
 Here is how it works. Open a new tab and type [aka.ms/ad/{command}](https://aka.ms/command)
 
-Where shortcut is one of the commands below.
+Use any of the commands below. 
+
+Don't forget to super charge this with the [Address bar search](#search-bar-support) tip below.
 
 ## Azure Active Directory - Admins
 
@@ -60,7 +62,7 @@ Where shortcut is one of the commands below.
 |[aka.ms/mystaff](https://aka.ms/mystaff)|My Access Packages|
 |[aka.ms/mfasetup](https://aka.ms/mfasetup)|Alternative for My Security|
 
-## Chrome/Edge Search Bar Support
+## Search Bar Support
 
 To reduce typing aka.ms/ all the time you can add a prefix to make it super quick to get to the aka.ms links.
 
@@ -101,7 +103,6 @@ Unfortunately [Firefox does not have an easy way to do add a search engine](http
 ## Suggestions
 
 Notice anything missing or have suggestions? Please create an issue or submit a PR.
-
 
 
 
