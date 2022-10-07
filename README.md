@@ -1,14 +1,12 @@
 # aka.ms/commands
 
+This page lists popular aka.ms links for Microsoft portal pages.
+
+Here is how it works. Open a new tab and type [aka.ms/ad/{command}](https://aka.ms/command) using any of the commands below. 
+
+:rocket: Don't forget to super charge this with the [Address bar search](#search-bar-support) tip below.
+
 Get to this page by browsing to [aka.ms/commands](https://aka.ms/commands).
-
-This page lists all aka.ms links for Microsoft Admins portals.
-
-Here is how it works. Open a new tab and type [aka.ms/ad/{command}](https://aka.ms/command)
-
-Use any of the commands below. 
-
-Don't forget to super charge this with the [Address bar search](#search-bar-support) tip below.
 
 ## Azure Active Directory - Admins
 
