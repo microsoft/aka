@@ -85,7 +85,23 @@ A quick alternative to get to the **Manage search enginess** page is to search f
 
 ### Google Chrome
 
+* Go to **Settings** > **Search engine** > **Manage search engines and site search**
+* Scroll down to **Site Search**
+* Select **Add**
+* Fill in the following
+  * Search engine: **aka.ms**
+  * Shortcut: **a** (You can choose any prefix you like)
+  * Url: **https://aka.ms/%s**
+* Select **Add**
+
+### Firefox
+
+Unfortunately [Firefox does not have an easy way to do add a search engine](https://bugzilla.mozilla.org/show_bug.cgi?id=1683969) and an extension may be required.
+
+## Suggestions
+
 Notice anything missing or have suggestions? Please create an issue or submit a PR.
+
 
 
 
