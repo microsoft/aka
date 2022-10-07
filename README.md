@@ -1,8 +1,10 @@
-# aka.ms
+# aka.ms/commands
+
+Get to this page by browsing to [aka.ms/commands](https://aka.ms/commands).
 
 This page lists all aka.ms links for Microsoft Admins portals.
 
-Here is how it works. Open a new tab and type [aka.ms/ad/{command}](https://aka.ms/ad/list)
+Here is how it works. Open a new tab and type [aka.ms/ad/{command}](https://aka.ms/command)
 
 Where shortcut is one of the commands below.
 
@@ -35,11 +37,20 @@ Where shortcut is one of the commands below.
 |[aka.ms/ad/support](https://aka.ms/ad/support)|support|Support|
 |[aka.ms/ad/list](https://aka.ms/ad/list)|list|List all these shortcuts|
 
-## Microsoft Users
+
+## Microsoft Admin Portals
 
 |aka.ms|Page|
 |-----|---|
 |[aka.ms/azad](https://aka.ms/azad)|Azure AD Portal|
+|[aka.ms/ge](https://aka.ms/ge)|Graph Explorer|
+|[aka.ms/in](https://aka.ms/in)|Intune|
+
+
+## Microsoft User Portals
+
+|aka.ms|Page|
+|-----|---|
 |[aka.ms/sspr](https://aka.ms/sspr)|Self Service Password Reset|
 |[aka.ms/mysecurity](https://aka.ms/myapps)|My Security|
 |[aka.ms/myapps](https://aka.ms/myapps)|My Apps|
@@ -48,10 +59,35 @@ Where shortcut is one of the commands below.
 |[aka.ms/my-access](https://aka.ms/my-access)|My Access Packages|
 |[aka.ms/mystaff](https://aka.ms/mystaff)|My Access Packages|
 |[aka.ms/mfasetup](https://aka.ms/mfasetup)|Alternative for My Security|
-|[aka.ms/ge](https://aka.ms/ge)|Graph Explorer|
-|[aka.ms/ge](https://aka.ms/in)|Intune|
+
+## Chrome/Edge Search Bar Support
+
+To reduce typing aka.ms/ all the time you can add a prefix to make it super quick to get to the aka.ms links.
+
+Once set up all you have to do is 
+* Open a new tab
+* Type *a* and press *TAB*
+* Type in the aka.ms shortcut. eg. *ad/users*
+
+
+### Microsoft Edge
+
+* Go to **Settings** > **Privacy, Search and Services** > Scroll all the way down to **Services**
+* Select **Address bar and search** > **Manage search engines**
+* Select **Add**
+* Fill in the following
+  * Search engine: **aka.ms**
+  * Shortcut: **a** (You can choose any prefix you like)
+  * Url: **https://aka.ms/%s**
+* Select **Add**
+
+A quick alternative to get to the **Manage search enginess** page is to search for **Manage search engines** under **Settings** and select **Address bar search**
+
+### Google Chrome
 
 Notice anything missing or have suggestions? Please create an issue or submit a PR.
+
+
 
 ## Contributing
 
