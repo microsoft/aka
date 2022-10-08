@@ -42,9 +42,10 @@ Get to this page by browsing to [aka.ms/commands](https://aka.ms/commands).
 
 |aka.ms|Page|
 |-----|---|
-|[aka.ms/azad](https://aka.ms/azad)|Azure AD Portal|
-|[aka.ms/ge](https://aka.ms/ge)|Graph Explorer|
-|[aka.ms/in](https://aka.ms/in)|Intune|
+|[aka.ms/admin](https://aka.ms/admin)|[M365 Admin Portal](https://admin.microsoft.com)|
+|[aka.ms/azad](https://aka.ms/azad)|[Azure AD Portal](https://portal.azure.com)|
+|[aka.ms/ge](https://aka.ms/ge)|[Graph Explorer](https://developer.microsoft.com/graph/graph-explorer)|
+|[aka.ms/in](https://aka.ms/in)|[Intune](https://endpoint.microsoft.com)|
 
 
 ## Microsoft User Portals
@@ -103,7 +104,7 @@ Unfortunately [Firefox does not have an easy way to do add a search engine](http
 
 ## Suggestions
 
-Notice anything missing or have suggestions? Please create an issue or submit a PR.
+Notice anything missing or have suggestions? Please create an issue, submit a PR or reach out to [@merill](https://twitter.com/merill) on [Twitter](https://twitter.com/merill).
 
 
 ## Contributing
