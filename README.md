@@ -61,6 +61,13 @@ Get to this page by browsing to [aka.ms/commands](https://aka.ms/commands).
 |[aka.ms/mystaff](https://aka.ms/mystaff)|My Access Packages|
 |[aka.ms/mfasetup](https://aka.ms/mfasetup)|Alternative for My Security|
 
+## Miscellaneous
+|aka.ms|Page|
+|-----|---|
+|[aka.ms/entradeprecations](https://aka.ms/entradeprecations)|Entra/Azure AD related retirements/deprecations|
+|[aka.ms/entratemplates](https://aka.ms/entratemplates)|Email templates & posters to roll out Azure Active Directory features|
+
+
 ## Search Bar Support
 
 To reduce typing aka.ms/ all the time you can add a prefix to make it super quick to get to the aka.ms links.
