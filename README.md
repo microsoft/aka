@@ -40,13 +40,22 @@ Get to this page by browsing to [aka.ms/commands](https://aka.ms/commands).
 
 ## Microsoft Admin Portals
 
-|aka.ms|Page|
-|-----|---|
-|[aka.ms/admin](https://aka.ms/admin)|[M365 Admin Portal](https://admin.microsoft.com)|
-|[aka.ms/azad](https://aka.ms/azad)|[Azure AD Portal](https://portal.azure.com)|
-|[aka.ms/ge](https://aka.ms/ge)|[Graph Explorer](https://developer.microsoft.com/graph/graph-explorer)|
-|[aka.ms/in](https://aka.ms/in)|[Intune](https://endpoint.microsoft.com)|
+|aka.ms|Command|Page|
+|-----|----|---|
+|[aka.ms/admin](https://aka.ms/admin)|admin|[M365 Admin Portal](https://admin.microsoft.com)|
+|[aka.ms/azad](https://aka.ms/azad)|azad|[Azure AD Portal](https://portal.azure.com)|
+|[aka.ms/ge](https://aka.ms/ge)|ge|[Graph Explorer](https://developer.microsoft.com/graph/graph-explorer)|
+|[aka.ms/in](https://aka.ms/in)|in|[Intune](https://endpoint.microsoft.com)|
 
+## Microsoft 365 Defender
+
+|aka.ms|Command|Portal Blade|
+|-----|----|---|
+|[aka.ms/de](https://aka.ms/de)|de|Microsoft 365 Defender|
+|[aka.ms/de/incidents](https://aka.ms/de/incidents)|incidents|Incidents|
+|[aka.ms/de/hunting](https://aka.ms/de/hunting)|hunting|Hunting|
+|[aka.ms/de/actions](https://aka.ms/de/actions)|explorer|Action Center|
+|[aka.ms/de/explorer](https://aka.ms/de/explorer)|explorer|Explorer|
 
 ## Microsoft User Portals
 
