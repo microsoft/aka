@@ -46,6 +46,8 @@ Get to this page by browsing to [aka.ms/commands](https://aka.ms/commands).
 |[aka.ms/azad](https://aka.ms/azad)|azad|[Azure AD Portal](https://portal.azure.com)|
 |[aka.ms/ge](https://aka.ms/ge)|ge|[Graph Explorer](https://developer.microsoft.com/graph/graph-explorer)|
 |[aka.ms/in](https://aka.ms/in)|in|[Intune](https://endpoint.microsoft.com)|
+|[aka.ms/ppac](https://aka.ms/ppac)|ppac|[Power Platform](https://admin.powerplatform.microsoft.com/)|
+
 
 ## Microsoft 365 Defender
 
