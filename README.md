@@ -40,27 +40,44 @@ Get to this page by browsing to [aka.ms/commands](https://aka.ms/commands).
 
 ## Microsoft Admin Portals
 
-|aka.ms|Page|
-|-----|---|
-|[aka.ms/admin](https://aka.ms/admin)|[M365 Admin Portal](https://admin.microsoft.com)|
-|[aka.ms/azad](https://aka.ms/azad)|[Azure AD Portal](https://portal.azure.com)|
-|[aka.ms/ge](https://aka.ms/ge)|[Graph Explorer](https://developer.microsoft.com/graph/graph-explorer)|
-|[aka.ms/in](https://aka.ms/in)|[Intune](https://endpoint.microsoft.com)|
-|[aka.ms/ppac](https://aka.ms/ppac)|[Power Platform](https://admin.powerplatform.microsoft.com/)|
+|aka.ms|Command|Page|
+|-----|----|---|
+|[aka.ms/admin](https://aka.ms/admin)|admin|[M365 Admin Portal](https://admin.microsoft.com)|
+|[aka.ms/azad](https://aka.ms/azad)|azad|[Azure AD Portal](https://portal.azure.com)|
+|[aka.ms/ge](https://aka.ms/ge)|ge|[Graph Explorer](https://developer.microsoft.com/graph/graph-explorer)|
+|[aka.ms/in](https://aka.ms/in)|in|[Intune](https://endpoint.microsoft.com)|
+|[aka.ms/ppac](https://aka.ms/ppac)|ppac|[Power Platform](https://admin.powerplatform.microsoft.com/)|
 
+
+## Microsoft 365 Defender
+
+|aka.ms|Command|Portal Blade|
+|-----|----|---|
+|[aka.ms/de](https://aka.ms/de)|de|Microsoft 365 Defender|
+|[aka.ms/de/incidents](https://aka.ms/de/incidents)|incidents|Incidents|
+|[aka.ms/de/hunting](https://aka.ms/de/hunting)|hunting|Hunting|
+|[aka.ms/de/actions](https://aka.ms/de/actions)|explorer|Action Center|
+|[aka.ms/de/explorer](https://aka.ms/de/explorer)|explorer|Explorer|
 
 ## Microsoft User Portals
 
 |aka.ms|Page|
 |-----|---|
 |[aka.ms/sspr](https://aka.ms/sspr)|Self Service Password Reset|
-|[aka.ms/mysecurity](https://aka.ms/myapps)|My Security|
+|[aka.ms/mysecurity](https://aka.ms/mysecurity)|My Security|
 |[aka.ms/myapps](https://aka.ms/myapps)|My Apps|
 |[aka.ms/my-account](https://aka.ms/my-account)|My Account|
 |[aka.ms/my-groups](https://aka.ms/my-groups)|My Groups|
 |[aka.ms/my-access](https://aka.ms/my-access)|My Access Packages|
 |[aka.ms/mystaff](https://aka.ms/mystaff)|My Access Packages|
 |[aka.ms/mfasetup](https://aka.ms/mfasetup)|Alternative for My Security|
+
+## Miscellaneous
+|aka.ms|Page|
+|-----|---|
+|[aka.ms/entradeprecations](https://aka.ms/entradeprecations)|Entra/Azure AD related retirements/deprecations|
+|[aka.ms/entratemplates](https://aka.ms/entratemplates)|Email templates & posters to roll out Azure Active Directory features|
+
 
 ## Search Bar Support
 
@@ -101,7 +118,13 @@ A quick alternative to get to the **Manage search enginess** page is to search f
 
 ### Firefox
 
-Unfortunately [Firefox does not have an easy way to do add a search engine](https://bugzilla.mozilla.org/show_bug.cgi?id=1683969) and an extension may be required. If you find an easy way please share.
+* Press Ctrl+B/Cmd+B to open the **Bookmarks Sidebar**
+* Right click **Other Bookmarks** and select **Add Bookmark**
+* Fill in the following:
+  * Name: **aka.ms**
+  * URL: **https://aka.ms/%s**
+  * Keyword: **a** (You can choose any keyword you like)
+* Select **Save**
 
 ## Suggestions
 
