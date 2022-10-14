@@ -62,7 +62,7 @@ Get to this page by browsing to [aka.ms/commands](https://aka.ms/commands).
 |aka.ms|Page|
 |-----|---|
 |[aka.ms/sspr](https://aka.ms/sspr)|Self Service Password Reset|
-|[aka.ms/mysecurity](https://aka.ms/myapps)|My Security|
+|[aka.ms/mysecurity](https://aka.ms/mysecurity)|My Security|
 |[aka.ms/myapps](https://aka.ms/myapps)|My Apps|
 |[aka.ms/my-account](https://aka.ms/my-account)|My Account|
 |[aka.ms/my-groups](https://aka.ms/my-groups)|My Groups|
