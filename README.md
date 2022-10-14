@@ -116,7 +116,13 @@ A quick alternative to get to the **Manage search enginess** page is to search f
 
 ### Firefox
 
-Unfortunately [Firefox does not have an easy way to do add a search engine](https://bugzilla.mozilla.org/show_bug.cgi?id=1683969) and an extension may be required. If you find an easy way please share.
+* Press Ctrl+B/Cmd+B to open the **Bookmarks Sidebar**
+* Right click **Other Bookmarks** and select **Add Bookmark**
+* Fill in the following:
+  * Name: **aka.ms**
+  * URL: **https://aka.ms/%s**
+  * Keyword: **a** (You can choose any keyword you like)
+* Select **Save**
 
 ## Suggestions
 
