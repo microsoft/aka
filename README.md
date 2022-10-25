@@ -72,6 +72,11 @@ Get to this page by browsing to [aka.ms/commands](https://aka.ms/commands).
 |[aka.ms/mystaff](https://aka.ms/mystaff)|My Access Packages|
 |[aka.ms/mfasetup](https://aka.ms/mfasetup)|Alternative for My Security|
 
+## Identity Protection
+|aka.ms|Page|
+|-----|---|
+|[aka.ms/identityprotection](https://aka.ms/identityprotection)|Identity Protection|
+
 ## Miscellaneous
 |aka.ms|Page|
 |-----|---|
