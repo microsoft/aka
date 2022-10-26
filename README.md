@@ -56,7 +56,7 @@ Get to this page by browsing to [aka.ms/commands](https://aka.ms/commands).
 |[aka.ms/de](https://aka.ms/de)|de|Microsoft 365 Defender|
 |[aka.ms/de/incidents](https://aka.ms/de/incidents)|incidents|Incidents|
 |[aka.ms/de/hunting](https://aka.ms/de/hunting)|hunting|Hunting|
-|[aka.ms/de/actions](https://aka.ms/de/actions)|explorer|Action Center|
+|[aka.ms/de/actions](https://aka.ms/de/actions)|actions|Action Center|
 |[aka.ms/de/explorer](https://aka.ms/de/explorer)|explorer|Explorer|
 
 ## Microsoft User Portals
