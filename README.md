@@ -8,6 +8,8 @@ Here is how it works. Open a new tab and type [aka.ms/ad/{command}](https://aka.
 
 Get to this page by browsing to [aka.ms/commands](https://aka.ms/commands).
 
+PS: For a comprehensive list and a shorter command line including a browser extension see [cmd.ms](https://cmd.ms)
+
 ## Azure Active Directory - Admins
 
 |aka.ms|Command|Portal Blade|
