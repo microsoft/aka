@@ -84,6 +84,7 @@ PS: For a comprehensive list and a shorter command line including a browser exte
 |-----|---|
 |[aka.ms/entradeprecations](https://aka.ms/entradeprecations)|Entra/Azure AD related retirements/deprecations|
 |[aka.ms/entratemplates](https://aka.ms/entratemplates)|Email templates & posters to roll out Azure Active Directory features|
+|[aka.ms/intuneshd](https://aka.ms/intuneshd)|Microsoft Intune admin center tenant details & service health and message center|
 
 
 ## Search Bar Support
