@@ -15,6 +15,7 @@ PS: For a comprehensive list and a shorter command line including a browser exte
 |aka.ms|Command|Portal Blade|
 |-----|----|---|
 |[aka.ms/ad/ca](https://aka.ms/ad/ca)|ca|Conditional Access|
+|[aka.ms/ad/cawhatif](https://aka.ms/ad/cawhatif)|cawhatif|Conditional Access What If|
 |[aka.ms/ad/pim](https://aka.ms/ad/pim)|pim|Privileged Identity Management|
 |[aka.ms/ad/users](https://aka.ms/ad/users)|users|Users|
 |[aka.ms/ad/groups](https://aka.ms/ad/groups)|groups|Groups|
@@ -39,7 +40,6 @@ PS: For a comprehensive list and a shorter command line including a browser exte
 |[aka.ms/ad/support](https://aka.ms/ad/support)|support|Support|
 |[aka.ms/ad/list](https://aka.ms/ad/list)|list|List all these shortcuts|
 
-
 ## Microsoft Admin Portals
 
 |aka.ms|Command|Page|
@@ -47,9 +47,16 @@ PS: For a comprehensive list and a shorter command line including a browser exte
 |[aka.ms/admin](https://aka.ms/admin)|admin|[M365 Admin Portal](https://admin.microsoft.com)|
 |[aka.ms/azad](https://aka.ms/azad)|azad|[Azure AD Portal](https://portal.azure.com)|
 |[aka.ms/ge](https://aka.ms/ge)|ge|[Graph Explorer](https://developer.microsoft.com/graph/graph-explorer)|
-|[aka.ms/in](https://aka.ms/in)|in|[Intune](https://endpoint.microsoft.com)|
+|[aka.ms/intune](https://aka.ms/intune)|intune|[Intune](https://endpoint.microsoft.com)|
 |[aka.ms/ppac](https://aka.ms/ppac)|ppac|[Power Platform](https://admin.powerplatform.microsoft.com/)|
 
+## Microsoft Intune Portals
+
+|aka.ms|Command|Page|
+|-----|----|---|
+|[aka.ms/in](https://aka.ms/in)|in|[Alternative shortlink for the Microsoft Intune admin center portal](https://intune.microsoft.com)|
+|[aka.ms/intuneshd](https://aka.ms/intuneshd)|intuneshd|Microsoft Intune admin center tenant details & service health and message center|
+|[aka.ms/intunesupport](https://aka.ms/intunesupport)|support|Get Intune Support|
 
 ## Microsoft 365 Defender
 
@@ -84,7 +91,6 @@ PS: For a comprehensive list and a shorter command line including a browser exte
 |-----|---|
 |[aka.ms/entradeprecations](https://aka.ms/entradeprecations)|Entra/Azure AD related retirements/deprecations|
 |[aka.ms/entratemplates](https://aka.ms/entratemplates)|Email templates & posters to roll out Azure Active Directory features|
-|[aka.ms/intuneshd](https://aka.ms/intuneshd)|Microsoft Intune admin center tenant details & service health and message center|
 
 
 ## Search Bar Support
