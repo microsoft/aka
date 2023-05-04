@@ -54,9 +54,10 @@ PS: For a comprehensive list and a shorter command line including a browser exte
 
 |aka.ms|Command|Page|
 |-----|----|---|
-|[aka.ms/in](https://aka.ms/in)|in|[Alternative shortlink for the Microsoft Intune admin center portal](https://intune.microsoft.com)|
-|[aka.ms/intuneshd](https://aka.ms/intuneshd)|intuneshd|Microsoft Intune admin center tenant details & service health and message center|
+|[aka.ms/in](https://aka.ms/in)|in|Intune admin center|
+|[aka.ms/intuneshd](https://aka.ms/intuneshd)|intuneshd|Intune service health|
 |[aka.ms/intunesupport](https://aka.ms/intunesupport)|support|Get Intune Support|
+|[aka.ms/enrollmymac](https://aka.ms/enrollmymac)|enrollmymac|Download the Intune Company Portal for Macs|
 
 ## Microsoft 365 Defender
 
