@@ -87,6 +87,13 @@ PS: For a comprehensive list and a shorter command line including a browser exte
 |-----|---|
 |[aka.ms/identityprotection](https://aka.ms/identityprotection)|Identity Protection|
 
+## Winget (Windows Package Manager)
+|aka.ms|Page|
+|-----|---|
+|[aka.ms/getwinget](https://aka.ms/getwinget)|Get Winget Installer|
+|[aka.ms/winget-docs](https://aka.ms/winget-docs)|Winget Documentation|
+|[aka.ms/winget](https://aka.ms/winget)|Winget Packages (Github Repo)|
+
 ## Miscellaneous
 |aka.ms|Page|
 |-----|---|
