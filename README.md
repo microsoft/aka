@@ -92,6 +92,7 @@ PS: For a comprehensive list and a shorter command line including a browser exte
 |-----|---|
 |[aka.ms/entradeprecations](https://aka.ms/entradeprecations)|Entra/Azure AD related retirements/deprecations|
 |[aka.ms/entratemplates](https://aka.ms/entratemplates)|Email templates & posters to roll out Azure Active Directory features|
+|[aka.ms/Fileshare Migration](https://aka.ms/odsp-mm-fs)|Fileshare Migration Portal|
 
 
 ## Search Bar Support
