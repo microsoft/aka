@@ -81,7 +81,7 @@ PS: For a comprehensive list and a shorter command line including a browser exte
 |[aka.ms/my-access](https://aka.ms/my-access)|My Access Packages|
 |[aka.ms/mystaff](https://aka.ms/mystaff)|My Access Packages|
 |[aka.ms/mfasetup](https://aka.ms/mfasetup)|Alternative for My Security|
-|[aka.ms/ssprsetup](https://aka.ms/mfasetup)|Another alternative for My Security|
+|[aka.ms/ssprsetup](https://aka.ms/ssprsetup)|Another alternative for My Security|
 
 ## Identity Protection
 |aka.ms|Page|
