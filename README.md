@@ -49,6 +49,7 @@ PS: For a comprehensive list and a shorter command line including a browser exte
 |[aka.ms/ge](https://aka.ms/ge)|ge|[Graph Explorer](https://developer.microsoft.com/graph/graph-explorer)|
 |[aka.ms/intune](https://aka.ms/intune)|intune|[Intune](https://endpoint.microsoft.com)|
 |[aka.ms/ppac](https://aka.ms/ppac)|ppac|[Power Platform](https://admin.powerplatform.microsoft.com/)|
+|[aka.ms/spoadmin](https://aka.ms/spoadmin)|spoadmin|[SharePoint Admin Portal](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true)|
 
 ## Microsoft Intune Portals
 
