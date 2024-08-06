@@ -58,6 +58,8 @@ PS: For a comprehensive list and a shorter command line including a browser exte
 |[aka.ms/intuneshd](https://aka.ms/intuneshd)|intuneshd|Intune service health|
 |[aka.ms/intunesupport](https://aka.ms/intunesupport)|support|Get Intune Support|
 |[aka.ms/enrollmymac](https://aka.ms/enrollmymac)|enrollmymac|Download the Intune Company Portal for Macs|
+|[aka.ms/iosenrollment](http://aka.ms/iosenrollment)|iosenrollment|Enroll iOS devices into Intune|
+
 
 ## Microsoft 365 Defender
 
