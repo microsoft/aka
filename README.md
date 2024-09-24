@@ -87,6 +87,27 @@ PS: For a comprehensive list and a shorter command line including a browser exte
 |-----|---|
 |[aka.ms/identityprotection](https://aka.ms/identityprotection)|Identity Protection|
 
+## Developer Tools & Resources
+
+| aka.ms Link | Description |
+|-------------|-------------|
+| [aka.ms/ssms](https://aka.ms/ssms) | SQL Server Management Studio |
+| [aka.ms/vs](https://aka.ms/vs) | Visual Studio |
+| [aka.ms/vsben](https://aka.ms/vsben) | Visual Studio benefits |
+| [aka.ms/copilotdownload](https://aka.ms/copilotdownload) | Download Copilot |
+| [aka.ms/copilotstudio](https://aka.ms/copilotstudio) | Copilot Studio |
+
+## Cloud Services & Administration Tools
+
+| aka.ms Link | Description |
+|-------------|-------------|
+| [aka.ms/onedrive](https://aka.ms/onedrive) | Download Microsoft OneDrive |
+| [aka.ms/getteams](https://aka.ms/getteams) | Download Microsoft Teams |
+| [aka.ms/endpointanalytics](https://aka.ms/endpointanalytics) | Intune Endpoint Analytics |
+| [aka.ms/authapp](https://aka.ms/authapp) | Download Microsoft Authenticator |
+| [aka.ms/myrecoverykey](https://aka.ms/myrecoverykey) | BitLocker recovery key webpage |
+| [aka.ms/sahandbook](https://aka.ms/sahandbook) | Microsoft Learn Student Ambassadors Handbook |
+
 ## Winget (Windows Package Manager)
 |aka.ms|Page|
 |-----|---|
