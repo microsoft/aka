@@ -76,7 +76,7 @@ PS: For a comprehensive list and a shorter command line including a browser exte
 |[aka.ms/sspr](https://aka.ms/sspr)|Self Service Password Reset|
 |[aka.ms/mysecurity](https://aka.ms/mysecurity)|My Security|
 |[aka.ms/myapps](https://aka.ms/myapps)|My Apps|
-|[aka.ms/my-account](https://aka.ms/my-account)|My Account|
+|[aka.ms/my-account](https://aka.ms/myaccount)|My Account|
 |[aka.ms/my-groups](https://aka.ms/my-groups)|My Groups|
 |[aka.ms/my-access](https://aka.ms/my-access)|My Access Packages|
 |[aka.ms/mystaff](https://aka.ms/mystaff)|My Access Packages|
